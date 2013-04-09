@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "D&WLC on Google+",
+    "description": "Click here to review Diet & Weight Loss centers on Google+",
+    "version": "1.0",
+    "app": {
+        "launch": {
+            "web_url": "https://plus.google.com/109515651480636991861/about?gl=us&hl=en"
+        }
+    },
+    "icons": {
+        "128": "googleplus-128.png"
+    }
+}
